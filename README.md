@@ -1,1 +1,4 @@
-Practice on CRUD and Authentication of Firebase
+#Practice On Following Operations Of Firebase  
+Authentication  
+CRUD  
+Deploy
